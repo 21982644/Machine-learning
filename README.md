@@ -1,3 +1,3 @@
-# Machine_learning Projects
+# Machine learning Projects
 
 1. Classification of forest type
